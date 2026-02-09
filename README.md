@@ -3,7 +3,7 @@
 # iQuHACK 2026 - Superquantum Challenge Solutions
 ```
 ┌─────────────────────────────────────┐
-│  🏆RANKED TOP 5- iQuHACK 2026 🏆   │
+│  🏆RANKED TOP 5- iQuHACK 2026 🏆    |
 │     Superquantum Challenge          │
 └─────────────────────────────────────┘
 ```
