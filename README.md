@@ -1,6 +1,14 @@
-# iQuHACK 2026 - Superquantum Challenge Solutions
 
-My solutions for the Clifford+T optimization challenge at MIT's iQuHACK 2026. All 11 challenges solved in a single Jupyter notebook.
+
+# iQuHACK 2026 - Superquantum Challenge Solutions
+```
+┌─────────────────────────────────────┐
+│  🏆RANKED TOP 5- iQuHACK 2026 🏆   │
+│     Superquantum Challenge          │
+└─────────────────────────────────────┘
+```
+
+My solutions for the Clifford+T optimization challenge at MIT's iQuHACK 2026. All 11 challenges solved in a single Jupyter notebook. Top 5 iniQuHACK 2026
 
 ## Challenge Overview
 
